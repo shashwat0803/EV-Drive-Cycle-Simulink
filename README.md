@@ -38,7 +38,7 @@ city driving than on highways, opposite to ICE vehicles.
 
 ## Plots
 ![Speed Profile](results/speed_profile.png)
-![SoC Profile](results/SoC_profile.png)
+![SoC Profile](results/SoC_profile.jpg)
 ![Power Profile](results/power_profile.png)
 ![Energy Summary](results/energy_summary.png)
 
